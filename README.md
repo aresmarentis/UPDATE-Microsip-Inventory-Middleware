@@ -65,3 +65,4 @@ Módulo especializado para la "Gestión de Incidentes" industriales.
 
 **Author:** Ares Casale Marentis | **Year:** 2026
 
+
