@@ -32,7 +32,7 @@ A specialized module for industrial "Incident Management."
 * **ERP-Linkage:** Directly connects current market prices from the ERP to the damage report, generating auditable PDF documents with legal disclaimers via the **ReportLab** engine.
 
 ### 📂 Repository Management
-* **`01 English/`**: Full implementation of the middleware core, ERP bridges, and UI modules, fully documented for international standard review.
+* **`CODE EN-SP/`**: Full implementation of the middleware core, ERP bridges, and UI modules, fully documented for international standard review.
 
 ---
 
@@ -59,11 +59,12 @@ Módulo especializado para la "Gestión de Incidentes" industriales.
 * **Vinculación ERP:** Conecta directamente los precios de adquisición actuales del ERP con el reporte de daños, generando documentos PDF auditables con cláusulas legales de responsabilidad mediante el motor **ReportLab**.
 
 ### 📂 Gestión de Repositorio
-* **`02 Spanish/`**: Implementación completa del núcleo del middleware, puentes ERP y módulos de interfaz, totalmente documentados para implementación local.
+* **`CODE EN-SP/`**: Implementación completa del núcleo del middleware, puentes ERP y módulos de interfaz, totalmente documentados para implementación local.
 
 ---
 
 **Author:** Ares Casale Marentis | **Year:** 2026
+
 
 
 
